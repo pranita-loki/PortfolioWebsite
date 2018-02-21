@@ -1,0 +1,200 @@
+@font-face {
+	font-family: AKGMed;
+	src: url("../resources/AkzidenzGrotesk-Medium.otf");
+}
+@font-face {
+	font-family: AKGReg;
+	src: url("../resources/AkzidenzGrotesk-Regular.otf");
+}
+
+body {
+	margin: 0px;
+}
+
+a {
+	color: #393A3A;
+	text-decoration: none;
+}
+
+a:hover {
+    color: #597950;
+
+}
+
+
+#navbar{
+	width: 340px;
+	height: 100%;
+	background: #D5DFC5;
+	position: fixed;
+	z-index: 10;
+}
+
+#content{
+	margin-left: 340px;
+	margin-right: auto;
+	background: #E1767A;
+	height: 100%;
+}
+
+#portfolio_content{
+	margin-left: 340px;
+	margin-right: auto;
+	background: #E1767A;
+
+}
+
+#picofme {
+	display: block;
+	width: 500px;
+	margin: auto;
+
+}
+
+
+#hello {
+	font-family: AKGMed;
+	font-size: 50px;
+	color: #393A3A;
+	font-weight: 300;
+	text-align: center;
+	padding-bottom: 0px;
+	padding-right: 300px;
+	padding-top: 120px;
+	margin: 0px;
+	text-shadow: -3px 0px #D5DFC5;
+
+}
+
+#caption {
+	font-family: AKGReg;
+	font-size: 16px;
+	color: #393A3A;
+	background-color:#D5DFC5;
+	width: 350px;
+	margin-top: 25px;
+	margin-right: 0px;
+	float: right;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+}
+
+.lightgreen {
+	width: 250px;
+	height: 100px;
+	position: absolute;
+	margin-left: 130px;
+	margin-top: 210px;
+}
+
+#pranita {
+	font-family: AKGMed;
+	font-size: 33px;
+	position: center;
+	color: #393A3A;
+	margin-bottom: 30px;
+	font-weight: 400;
+}
+
+.pages {
+	font-family: AKGMed;
+	font-size: 20px;
+	color: #393A3A;
+	line-height: 15px;
+	font-weight: 400;
+
+}
+
+.rind {
+	position: absolute;
+	width: 100px;
+	height: 100%;
+}
+
+#green1 {
+	width: 100px;
+	height: 20%;
+	background: #22341E;
+}
+
+#green2 {
+	width: 100px;
+	height: 20%;
+	background: #597950;
+}
+
+#contact-box {
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	transform: translate(0%, 70%);
+	background: #D5DFC5;
+	/*outline-style: double;
+	outline-color: #D5DFC5;
+	outline-width: 10px;*/
+
+}
+
+#contact-links {
+	text-align: right;
+	font-family: AKGMed;
+	font-size: 40px;
+	color: #393A3A;
+	text-shadow: -2px 0px #D5DFC5;
+	line-height: 60px;
+	padding-right: 25px;
+	padding-top: 55px;
+
+}
+
+.click-contact:hover {
+	font-family: AKGMed;
+	font-size: 41px;
+	color: #393A3A;
+
+}
+
+.backto-homepage:hover {
+	color: #393A3A;
+}
+
+#testseeds {
+	width: 420px;
+	margin:auto;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+
+#portfolio1 {
+	display: block;
+	width: 75%;
+	margin: auto;
+	padding-top: 100px;
+
+}
+
+#portfoliocap {
+	font-family: AKGReg;
+	font-size: 16px;
+	color: #393A3A;
+	background-color:#D5DFC5;
+	width: 60%;
+	margin-top: 30px;
+	margin-right: 0px;
+	float: right;
+	padding-left: 30px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 80px;
+}
+
+
+
+
+
+
+
